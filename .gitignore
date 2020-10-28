@@ -1,3 +1,9 @@
 *.exe
 main
 vendor
+configs/config.yaml
+.idea/
+.DS_Store
+storage/*
+
+gorm.db
